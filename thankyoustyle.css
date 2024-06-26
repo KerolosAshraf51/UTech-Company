@@ -1,0 +1,17 @@
+
+a.button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: #176975;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+a.button:hover {
+    background-color: #176975c9;
+}
+
