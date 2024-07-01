@@ -8,4 +8,5 @@ Technology Stack
 
 Frontend Development
 HTML5: Used for structuring the content of the website, providing a semantic foundation for search engines and accessibility tools.
+
 CSS3: Employed for styling the website, ensuring it is visually appealing and responsive across different devices.
